@@ -14,7 +14,7 @@ I am Garima Gautam, currently pursuing my B.Tech degree in Computer Science from
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GarimaGautam116&label=Profile%20views&color=6805D3&style=plastic" alt="GarimaGautam116" /> </p>
 
 ## 👨🏻‍💻 Coding Profiles
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@Garima_Gautam_c1)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Garima_Gautam_c1)
 
 ## Connect With Me:
 
