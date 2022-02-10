@@ -9,6 +9,8 @@
 </p>
 <!--  -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GarimaGautam116&label=Profile%20views&color=6805D3&style=plastic" alt="GarimaGautam116" /> </p>
+
 I am Garima Gautam, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA].
 
 
@@ -17,7 +19,7 @@ I am Garima Gautam, currently pursuing my B.Tech degree in Computer Science from
 
 ## Connect With Me:
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garima.gautam_cs20@gla.ac.in)](mailto:garima.gautam_cs20@gla.ac.in)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garimagautam116@gmail.com)](mailto:garimagautam116@gmail.com)
 
 ## 📈 Stats
 <table>
